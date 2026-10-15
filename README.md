@@ -1,0 +1,2 @@
+# snippets
+hint library
